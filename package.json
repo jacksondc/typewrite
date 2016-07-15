@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Adds typewriter scrolling to textareas (text moves up, caret does not)",
   "main": "main.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jacksondc/typewrite.git"
+  },
   "dependencies": {
     "autosize": "^3.0.16",
     "textarea-caret": "^3.0.1"
